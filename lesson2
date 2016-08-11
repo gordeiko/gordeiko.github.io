@@ -1,1 +1,151 @@
+<!doctype html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+<div class="wrapper">
+    <header>
+        <div class="header-top">
+            <div class="header-top_social">
+                <a href="" class="social-fb"></a>
+                <a href="" class="social-vk"></a>
+                <a href="" class="social-tw"></a>
+            </div>
+            <div class="header-top_reg">
+                <img src="" alt="">
+                <input type="submit" value="вход">
+                <input type="submit" value="регистрация">
+            </div>
+        </div>
+        <div class="header-main">
+            <div class="logo">
+                <img src="" alt="">
+                <a href=""></a>
+            </div>
+            <div class="header-search">
+                <input type="text" placeholder="поиск" class="search_center">
+                <button class="search-button"></button>
+            </div>
+            <div class="header-basket">Корзина</div>
+        </div>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="">каталог</a></li>
+            <li><a href="">акции</a></li>
+            <li><a href="">о нас</a></li>
+            <li><a href="">блог</a></li>
+        </ul>
+    </nav>
+    <div class="slider"></div>
+    <div class="sale">
+        <p class="sale-a">10% скидка</p>
+        <p class="sale-b">уникальное предложение недели на всю старую коллекцию объявлена скидка</p>
+        <a href="">узнать подробности</a>
+    </div>
+    <div class="sale">
+        <p class="sale-a">10% скидка</p>
+        <p class="sale-b">уникальное предложение недели на всю старую коллекцию объявлена скидка</p>
+        <a href="">узнать подробности</a>
+    </div>
+    <div class="sale">
+        <p class="sale-a">10% скидка</p>
+        <p class="sale-b">уникальное предложение недели на всю старую коллекцию объявлена скидка</p>
+        <a href="">узнать подробности</a>
+    </div>
+    <article>
+        <figure><a href=""><img src="" alt="">
+            <h1>labuten cherry</h1>
+            <p class="descr">супер-ультрамодная модель носить не сносить</p>
+            <p class="price">$7000</p></a>
+        </figure>
+        <figure><a href=""><img src="" alt="">
+            <h1>labuten cherry</h1>
+            <p class="descr">супер-ультрамодная модель носить не сносить</p>
+            <p class="price">$7000</p></a>
+        </figure>
+        <figure><a href=""><img src="" alt="">
+            <h1>labuten cherry</h1>
+            <p class="descr">супер-ультрамодная модель носить не сносить</p>
+            <p class="price">$7000</p></a>
+        </figure>
+        <figure><a href=""><img src="" alt="">
+            <h1>labuten cherry</h1>
+            <p class="descr">супер-ультрамодная модель носить не сносить</p>
+            <p class="price">$7000</p></a>
+        </figure>
+        <figure><a href=""><img src="" alt="">
+            <h1>labuten cherry</h1>
+            <p class="descr">супер-ультрамодная модель носить не сносить</p>
+            <p class="price">$7000</p></a>
+        </figure>
+        <figure><a href=""><img src="" alt="">
+            <h1>labuten cherry</h1>
+            <p class="descr">супер-ультрамодная модель носить не сносить</p>
+            <p class="price">$7000</p></a>
+        </figure>
+        <figure><a href=""><img src="" alt="">
+            <h1>labuten cherry</h1>
+            <p class="descr">супер-ультрамодная модель носить не сносить</p>
+            <p class="price">$7000</p></a>
+        </figure>
+        <figure><a href=""><img src="" alt="">
+            <h1>labuten cherry</h1>
+            <p class="descr">супер-ультрамодная модель носить не сносить</p>
+            <p class="price">$7000</p></a>
+        </figure>
+    </article>
+    <menu>
+        <ul>
+            <li><a href="">Меню</a></li>
+            <li><a href="">Каталог</a></li>
+            <li><a href="">Блог</a></li>
+            <li><a href="">Контакты</a></li>
+        </ul>
+    </menu>
+    <footer>
+        <div class="footer-link">
+            <div class="footer-link-a">
+                <a href="">какая-то ссылка</a>
+                <a href="">какая-то ссылка</a>
+                <a href="">какая-то ссылка</a>
+                <a href="">какая-то ссылка</a>
+                <a href="">какая-то ссылка</a>
+            </div>
+            <div class="footer-link-b">
+                    <a href="">какая-то ссылка</a>
+                    <a href="">какая-то ссылка</a>
+                    <a href="">какая-то ссылка</a>
+                    <a href="">какая-то ссылка</a>
+                    <a href="">какая-то ссылка</a>
+            </div>
+            <div class="footer-link-c">
+                        <a href="">какая-то ссылка</a>
+                        <a href="">какая-то ссылка</a>
+                        <a href="">какая-то ссылка</a>
+                        <a href="">какая-то ссылка</a>
+                        <a href="">какая-то ссылка</a>
+            </div>
 
+        </div>
+        <div class="footer-social">
+            <a href=""></a>
+            <a href=""></a>
+            <a href=""></a>
+        </div>
+        <div class="phone">
+            <p class="phone-a">88888888888</p>
+            <p class="phone-b">99999999999</p>
+        </div>
+        <div class="copyright">
+            <p>nalabuten.ah 2016</p>
+        </div>
+    </footer>
+</div>
+</body>
+</html>
